@@ -1,3 +1,3 @@
-document.getElementsByTagName('h1')[0].click =function(){
+document.getElementsByTagName('h1')[0].onclick =function(){
     alert("你好git")
 }
